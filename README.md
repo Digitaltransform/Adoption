@@ -1,9 +1,6 @@
 # Adoption
-Starting Adoption Framework Formula  Great Gate Find The Solutions
-Sebagai catatan penting dalam mengkaji pendekatan untuk mengembangkan penemuan digital yang memprioritaskan adopsi.
-Tidak semua disiplin ilmu perlu diadopsi sekaligus. Formula for innovation
-Successful innovation is not a big-bang transformational event or an elusive magical unicorn.
+Starting Adoption Framework Great Gate Find The Solutions 3 As an important note in reviewing approaches to developing digital inventions that prioritize adoption. 4 Not all disciplines need to be adopted at once. Formula for innovation 5 Successful innovation is not a big-bang transformational event or an elusive magical unicorn.
 ## Berkelakuan Seimbang 
-Success in innovation is more of a balancing act, illustrated by a simple equation sengan rumus sbb :
+Success in innovation is more of a balancing act, described by a simple equation with the formula below:
 ### Rumus
 #### Adoption + Invention = Innovation 
